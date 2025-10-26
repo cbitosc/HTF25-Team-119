@@ -1,68 +1,50 @@
 ﻿# HTF25-Team-119
 
-## GitHub submission guide
 
-In this Readme, you will find a guide on how to fork this Repository, add files to it, and make a pull request to contribute your changes.
+ Link for the project: https://grade-glide-hub-98.lovable.app/auth
 
-<details open>
-<summary><h3>1. Login to your GitHub Account</h3></summary>
-<br>
-<p>Go to <a href="https://github.com">github.com</a> to log in.</p>
-<ul>
-   <li>Open the <a href="https://github.com/cbitosc/HTF25-Team-119">current repo</a> in a new tab.</li>
-   <li>Perform all operations in the newly opened tab, and follow the current tab for instructions.</li>
-</ul>
-</details>
+AcademicTracker - Student Dashboard for Academic Success
+Overview
+AcademicTracker is a modern, user-friendly student dashboard designed to help students in tracking their academic progress, grades, assignments, and deadlines—all in one place. Built with Lovable AI, this dashboard leverages intuitive UI, vibrant color themes, and smart notifications to streamline student workflow and maximize academic success.
 
-<details open>
-<summary><h3>2. Fork the Repository</h3></summary>
-<br>
-<p align="center">
-  <img src="fork.jpeg" alt="Fork the Repository" height="300">
-</p>
-<ul>
- <li>In the newly opened tab, on the top-right corner, click on <b>Fork</b>.</li>
- <li>Enter the <b>Repository Name</b> as <b>HTF25-Team-119</b>.</li>
- <li>Then click <b>Create Fork</b>, leaving all other fields as default.</li>
- <li>After a few moments, you can view your forked repo.</li>
-</ul>
-</details>
+Features
+Dashboard Layout: Track your grades, assignments, and academic milestones at a glance.
 
-<details open>
-<summary><h3>3. Clone your Repository</h3></summary>
-<br>
-<ul>
- <li>Click on <b>Code</b> and from the dropdown menu copy your <b>web URL</b> of your forked repository.</li>
- <li>Now open terminal on your local machine.</li>
- <li>Run this command to clone the repo:</li>
-<pre><code>git clone https://github.com/your-username/HTF25-Team-119.git</code></pre>
-</ul>
-</details>
+Modern Theme: Uses a vibrant purple-blue gradient with accent colors for a pleasant user experience.
 
-<details open>
-<summary><h3>4. Adding files to the Repository</h3></summary>
-<br>
-<ul>
- <li>While doing it for the first time, create a new branch for your changes:</li>
-<pre><code>git checkout -b branch-name</code></pre>
- <li>Add your files or make modifications to existing files.</li>
- <li>Stage your changes:</li>
-<pre><code>git add .</code></pre>
- <li>Commit your changes:</li>
-<pre><code>git commit -m "Descriptive commit message"</code></pre>
- <li>Push your branch to your fork:</li>
-<pre><code>git push origin branch-name</code></pre>
-</ul>
-</details>
+Notifications: Stay updated with deadline and schedule notifications.
 
-<details open>
-<summary><h3>5. Create a Pull Request</h3></summary>
-<br>
-<ul>
- <li>Click on the <b>Contribute</b> button in your fork and choose <b>Open Pull Request</b>.</li>
- <li>Leave all fields as default, then click <b>Create Pull Request</b>.</li>
- <li>Wait a few moments; your PR is now submitted.</li>
-</ul>
-</details>
+Customization: Easy-to-edit components for quick personalization.
 
-## Thanks for participating!
+Expandable: Ready for future integrations—such as Google Calendar, for syncing your academic schedule with your dashboard.
+
+Accessible: Designed for both web and mobile platforms using a clean, responsive layout.
+
+Technology Stack
+Frontend: Built using Lovable’s visual no-code/low-code platform with HTML, CSS, and modern UI components.
+
+Hosting: Published on Lovable.app
+
+Planned Integrations: Google Calendar (authentication and event sync)
+
+How to Use
+Access the Dashboard: Visit Grade Glide Hub - Student Dashboard.
+
+Track Your Progress: Log grades, assignments, and deadlines.
+
+Subscribe to Notifications: Enable or configure notifications for important academic events.
+
+Personalize: Use the edit mode to customize components or connect with additional tools as they’re rolled out.
+
+Customization & Integration
+Google Calendar Integration: (Planned) A “Connect Google Calendar” button will soon allow syncing your academic schedule with your Google Calendar.
+
+Further Expansion: Feature requests and contributions are welcome for additional integrations (e.g., AI-powered grade prediction, study reminders, etc.)
+
+Credits
+Developed by Vyshnavi, Vaishnavi,Moulika,Yamini,Hansika. MCA Students
+
+Built with Lovable AI.
+
+License
+This project is for educational and academic use. Please contact the maintainer for contributions or customization guidance.
